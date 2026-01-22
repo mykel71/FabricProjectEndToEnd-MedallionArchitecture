@@ -167,7 +167,7 @@ These datasets simulate real-world enterprise data sources.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mykel71/microsoft-fabric-medallion-project.git
+   git clone https://github.com/mykel71/FabricProjectEndToEnd-MedallionArchitecture.git
    ```
 
 2. Upload datasets to **Microsoft Fabric Lakehouse**
